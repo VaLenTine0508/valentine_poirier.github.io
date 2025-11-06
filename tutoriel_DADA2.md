@@ -227,8 +227,7 @@ dadaFs[[1]]
     ## Key parameters: OMEGA_A = 1e-40, OMEGA_C = 1e-40, BAND_SIZE = 16
 
 Après correction des erreurs, DADA2 a identifié 128 séquences uniques
-réelles (ASV) à partir des 1979 séquences uniques du premier
-échantillon.
+réelles (ASV) à partir des 1979 séquences uniques du 1er échantillon.
 
 ## Fusion des paire de reads (forward et reverse)
 

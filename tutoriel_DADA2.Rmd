@@ -99,7 +99,7 @@ Affichage du résultat de denoising du premier élément de la liste forward :
 ```{r, cache=TRUE}
 dadaFs[[1]]
 ```
-Après correction des erreurs, DADA2 a identifié 128 séquences uniques réelles (ASV) à partir des 1979 séquences uniques du premier échantillon.
+Après correction des erreurs, DADA2 a identifié 128 séquences uniques réelles (ASV) à partir des 1979 séquences uniques du 1er échantillon.
 
 ## Fusion des paire de reads (forward et reverse)
 
